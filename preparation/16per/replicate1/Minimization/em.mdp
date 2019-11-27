@@ -1,0 +1,33 @@
+integrator               = steep
+tinit                    = 0
+dt                       = 0.002
+nsteps                   = 1000
+pbc			             = xyz
+comm-mode                = linear
+nstcomm                  = 1
+
+; OUTPUT CONTROL OPTIONS
+nstxout                  = 0
+nstxtcout                = 0
+nstvout                  = 0
+nstfout                  = 0
+nstlist			         = 10
+ns_type			         = grid
+nstenergy		         = 0
+
+; OPTIONS FOR ELECTROSTATICS AND VDW
+cutoff-scheme            = Verlet
+coulombtype              = pme
+rcoulomb                 = 1.2
+rlist                    = 1.2
+rvdw                     = 1.2
+vdwtype                  = cutoff
+vdw-modifier             = force-switch
+rvdw-switch              = 1.0
+DispCorr                 = EnerPres
+table-extension          = 1
+fourierspacing           = 0.12
+
+; CONSTRAINTS
+constraints              = none
+constraint-algorithm     = Lincs
