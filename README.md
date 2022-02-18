@@ -2,8 +2,7 @@ Computational Biology Laboratory, Danish Cancer Society Research Center, Strandb
 
 Repository associated to the publication:
 
-Molecular-dynamics-simulation-guided membrane engineering of Saccharomyces cerevisiae by overexpression of plant FAE1 and GPAT5 genes increases fatty acid chain length in membrane lipids
-Jeroen Moritz Maertens; Simone Scrima; Matteo Lambrughi; Cecilia Trivellin; Elena Papaleo; Lisbeth Olsson; Maurizio Bettiga, submitted for publication
+Maertens JM, Scrima S, Lambrughi M, Genheden S, Trivellin C, Eriksson LA, Papaleo E, Olsson L, Bettiga M. Molecular-dynamics-simulation-guided membrane engineering allows the increase of membrane fatty acid chain length in Saccharomyces cerevisiae. Sci Rep. 2021,11(1):17333, doi: 10.1038/s41598-021-96757-y, PMID: 34462478, PMCID: PMC8405694
 
 contact persons for the repository: Elena Papaleo, elenap@cancer.dk
 				    Matteo Lambrughi, matl@cancer.dk
